@@ -12,3 +12,18 @@ D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobil
 D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.pdb
 D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.genruntimeconfig.cache
 D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ref\ConsoleBasedCalculator.dll
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\bin\Debug\net8.0\ConsoleBasedCalculator.exe
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\bin\Debug\net8.0\ConsoleBasedCalculator.deps.json
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\bin\Debug\net8.0\ConsoleBasedCalculator.runtimeconfig.json
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\bin\Debug\net8.0\ConsoleBasedCalculator.dll
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\bin\Debug\net8.0\ConsoleBasedCalculator.pdb
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.AssemblyInfoInputs.cache
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.AssemblyInfo.cs
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.sourcelink.json
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.dll
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\refint\ConsoleBasedCalculator.dll
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.pdb
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ConsoleBasedCalculator.genruntimeconfig.cache
+C:\Users\andyb\Desktop\COM SCI\3RD YEAR\2ND SEM\CIS 2203\MobDevQ1P2\obj\Debug\net8.0\ref\ConsoleBasedCalculator.dll

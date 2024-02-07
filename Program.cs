@@ -6,22 +6,23 @@ namespace ConsoleBasedCalculator
     {
         static void Main(string[] args)
         {
-            double operand1, operand2;
-            double result = 0;
+            double operand1, operand2, result = 0;
             bool isValidInput = false;
 
-            while (true)
-            {
-                Console.Clear();
-
+            do{
                 Console.WriteLine("Enter first operand:");
                 isValidInput = double.TryParse(Console.ReadLine(), out operand1);
                 if (!isValidInput)
                 {
                     Console.WriteLine("Invalid input. Please enter a valid number.");
                     continue;
+                }else{
+                    break;
                 }
+            }while(true);
 
+            while (true)
+            {
                 Console.WriteLine("Enter second operand:");
                 isValidInput = double.TryParse(Console.ReadLine(), out operand2);
                 if (!isValidInput)
@@ -29,12 +30,14 @@ namespace ConsoleBasedCalculator
                     Console.WriteLine("Invalid input. Please enter a valid number.");
                     continue;
                 }
+                Console.Clear();
 
-                Console.WriteLine("Choose an operation:");
+                Console.WriteLine("----- Calculator Menu -----");
                 Console.WriteLine("[1] Add");
                 Console.WriteLine("[2] Subtract");
                 Console.WriteLine("[3] Multiply");
                 Console.WriteLine("[4] Divide");
+                Console.WriteLine("Select an operation:");
 
                 int choice;
                 isValidInput = int.TryParse(Console.ReadLine(), out choice);
@@ -81,6 +84,10 @@ namespace ConsoleBasedCalculator
                 if (continueChoice.ToUpper() != "Y")
                 {
                     break;
+                }else{
+                    operand1 = result;
+                    Console.WriteLine("First operand is now " + result.ToString());
+                    continue;
                 }
             }
         }

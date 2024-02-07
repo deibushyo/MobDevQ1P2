@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DAVE\\Documents\\SCHOOL\\ACADEMIC YEAR\\2023 - 2024\\2ND SEMESTER\\CIS 2203 - Mobile Development\\Github\\ConsoleBasedCalculator\\ConsoleBasedCalculator.csproj": {}
+    "C:\\Users\\andyb\\Desktop\\COM SCI\\3RD YEAR\\2ND SEM\\CIS 2203\\MobDevQ1P2\\ConsoleBasedCalculator.csproj": {}
   },
   "projects": {
-    "D:\\DAVE\\Documents\\SCHOOL\\ACADEMIC YEAR\\2023 - 2024\\2ND SEMESTER\\CIS 2203 - Mobile Development\\Github\\ConsoleBasedCalculator\\ConsoleBasedCalculator.csproj": {
+    "C:\\Users\\andyb\\Desktop\\COM SCI\\3RD YEAR\\2ND SEM\\CIS 2203\\MobDevQ1P2\\ConsoleBasedCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DAVE\\Documents\\SCHOOL\\ACADEMIC YEAR\\2023 - 2024\\2ND SEMESTER\\CIS 2203 - Mobile Development\\Github\\ConsoleBasedCalculator\\ConsoleBasedCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\andyb\\Desktop\\COM SCI\\3RD YEAR\\2ND SEM\\CIS 2203\\MobDevQ1P2\\ConsoleBasedCalculator.csproj",
         "projectName": "ConsoleBasedCalculator",
-        "projectPath": "D:\\DAVE\\Documents\\SCHOOL\\ACADEMIC YEAR\\2023 - 2024\\2ND SEMESTER\\CIS 2203 - Mobile Development\\Github\\ConsoleBasedCalculator\\ConsoleBasedCalculator.csproj",
-        "packagesPath": "C:\\Users\\DAVE\\.nuget\\packages\\",
-        "outputPath": "D:\\DAVE\\Documents\\SCHOOL\\ACADEMIC YEAR\\2023 - 2024\\2ND SEMESTER\\CIS 2203 - Mobile Development\\Github\\ConsoleBasedCalculator\\obj\\",
+        "projectPath": "C:\\Users\\andyb\\Desktop\\COM SCI\\3RD YEAR\\2ND SEM\\CIS 2203\\MobDevQ1P2\\ConsoleBasedCalculator.csproj",
+        "packagesPath": "C:\\Users\\andyb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andyb\\Desktop\\COM SCI\\3RD YEAR\\2ND SEM\\CIS 2203\\MobDevQ1P2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DAVE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\andyb\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
