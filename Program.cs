@@ -1,21 +1,28 @@
-﻿using System;
+﻿//* group members:
+//* Baulita, Andrea
+//* Escabarte, Queeny
+//* Pacampara, Rolan
+
+using System;
+using System.ComponentModel;
 
 namespace ConsoleBasedCalculator
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             double operand1, operand2, result = 0;
             bool isValidInput = false;
 
+            Console.Clear();
             do{
+                Console.WriteLine("----- Calculator -----");
                 Console.WriteLine("Enter first operand:");
                 isValidInput = double.TryParse(Console.ReadLine(), out operand1);
                 if (!isValidInput)
                 {
                     Console.WriteLine("Invalid input. Please enter a valid number.");
-                    continue;
                 }else{
                     break;
                 }
@@ -30,14 +37,8 @@ namespace ConsoleBasedCalculator
                     Console.WriteLine("Invalid input. Please enter a valid number.");
                     continue;
                 }
-                Console.Clear();
-
-                Console.WriteLine("----- Calculator Menu -----");
-                Console.WriteLine("[1] Add");
-                Console.WriteLine("[2] Subtract");
-                Console.WriteLine("[3] Multiply");
-                Console.WriteLine("[4] Divide");
-                Console.WriteLine("Select an operation:");
+                
+                DisplayMenu();
 
                 int choice;
                 isValidInput = int.TryParse(Console.ReadLine(), out choice);
@@ -45,16 +46,18 @@ namespace ConsoleBasedCalculator
                 if (!isValidInput || choice < 1 || choice > 4)
                 {
                     Console.WriteLine("Invalid choice. Please enter a number between 1 and 4.");
-                    continue;
+                    Console.WriteLine("Restarting process...");
+                    Thread.Sleep(3000);
+                    Main();
                 }
 
                 switch (choice)
                 {
                     case 1:
-                        result = operand1 + operand2;
+                        result = Add(operand1, operand2);
                         break;
                     case 2:
-                        result = operand1 - operand2;
+                        result = Subtract(operand1, operand2);
                         break;
                     case 3:
                         result = operand1 * operand2;
@@ -69,7 +72,7 @@ namespace ConsoleBasedCalculator
                         break;
                 }
 
-                // Display the result
+                // displaying the result
                 if (result % 1 == 0)
                 {
                     Console.WriteLine("Result: " + result.ToString("0"));
@@ -85,11 +88,35 @@ namespace ConsoleBasedCalculator
                 {
                     break;
                 }else{
+                    // memory handling to use previous result as the 1st operand for next operation to be done
                     operand1 = result;
+                    Console.Clear();
                     Console.WriteLine("First operand is now " + result.ToString());
                     continue;
                 }
             }
+        }
+
+        // function to display the menu
+        public static void DisplayMenu()
+        {
+            Console.Clear();
+            Console.WriteLine("----- Calculator Menu -----");
+            Console.WriteLine("[1] Add");
+            Console.WriteLine("[2] Subtract");
+            Console.WriteLine("[3] Multiply");
+            Console.WriteLine("[4] Divide");
+            Console.WriteLine("Select an operation:");
+        }
+
+        public static double Add(double operand1, double operand2)
+        {
+            return operand1 + operand2;
+        }
+
+        public static double Subtract(double operand1, double operand2)
+        {
+            return operand1 - operand2;
         }
     }
 }
