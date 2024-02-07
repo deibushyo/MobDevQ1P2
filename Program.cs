@@ -47,7 +47,7 @@ namespace ConsoleBasedCalculator
                 {
                     Console.WriteLine("Invalid choice. Please enter a number between 1 and 4.");
                     Console.WriteLine("Restarting process...");
-                    Thread.Sleep(3000);
+                    Thread.Sleep(3000); // added a 3 second delay before restarting the process if an invalid choice is entered
                     Main();
                 }
 
@@ -60,7 +60,7 @@ namespace ConsoleBasedCalculator
                         result = Subtract(operand1, operand2);
                         break;
                     case 3:
-                        result = operand1 * operand2;
+                        result = Multiply(operand1, operand2);
                         break;
                     case 4:
                         if (operand2 == 0)
@@ -68,7 +68,7 @@ namespace ConsoleBasedCalculator
                             Console.WriteLine("Cannot divide by zero. Please enter a non-zero second operand.");
                             continue;
                         }
-                        result = operand1 / operand2;
+                        result = Divide(operand1, operand2);
                         break;
                 }
 
@@ -109,6 +109,7 @@ namespace ConsoleBasedCalculator
             Console.WriteLine("Select an operation:");
         }
 
+        // operation functions
         public static double Add(double operand1, double operand2)
         {
             return operand1 + operand2;
@@ -117,6 +118,16 @@ namespace ConsoleBasedCalculator
         public static double Subtract(double operand1, double operand2)
         {
             return operand1 - operand2;
+        }
+
+        public static double Multiply(double operand1, double operand2)
+        {
+            return operand1 * operand2;
+        }
+
+        public static double Divide(double operand1, double operand2)
+        {
+            return operand1 / operand2;
         }
     }
 }
