@@ -1,0 +1,14 @@
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.exe
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.deps.json
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.runtimeconfig.json
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.dll
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.pdb
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.AssemblyInfoInputs.cache
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.AssemblyInfo.cs
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.csproj.CoreCompileInputs.cache
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.dll
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\refint\ConsoleBasedCalculator.dll
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.pdb
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.genruntimeconfig.cache
+D:\DAVE\Documents\SCHOOL\ACADEMIC YEAR\2023 - 2024\2ND SEMESTER\CIS 2203 - Mobile Development\Github\ConsoleBasedCalculator\obj\Debug\net8.0\ref\ConsoleBasedCalculator.dll
